@@ -8,5 +8,5 @@ Author 'itsRelo97-7LIFEDEV'
 
 description 'PARKING-Legion-Square'  
 
-version '1.0'
+version '1.1'
 dependency '/assetpacks'
